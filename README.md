@@ -24,8 +24,6 @@ cd GAdmin
 alias gadmin="node app.js"
 ```
 
-这将全局 installs GAdmin，允许你在任何位置通过命令行使用 `gadmin`。
-
 ---
 
 ## 使用方法
