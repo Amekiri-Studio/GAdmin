@@ -19,7 +19,9 @@ GAdmin 是一个用于管理游戏库的命令行工具，支持添加、删除�
 在终端运行以下命令：
 
 ```bash
-npm install gadmin -g
+git clone https://github.com/Amekiri-Studio/GAdmin.git
+cd GAdmin
+alias gadmin="node app.js"
 ```
 
 这将全局 installs GAdmin，允许你在任何位置通过命令行使用 `gadmin`。
